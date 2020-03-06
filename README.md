@@ -1,5 +1,8 @@
-# bitbook-gambling price gnome ticket 
+# bitbook-gambling gnome price ticker
 
-Gnome 3 desktop ticker for bitbook-gambling price with Python and argos. Rename to bitbook-gambling.1r.60s.py and put in ~/.config/argos
+Get bitbook-gambling price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/bitbook-gambling-price-gnome-ticket/](https://codesharedot.github.io/bitbook-gambling-price-gnome-ticket/)
 
-https://pythonbasics.org
+bitbook-gambling price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to bitbook-gambling.1r60s.py and put in ~/.config/argos
